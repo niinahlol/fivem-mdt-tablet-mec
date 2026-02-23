@@ -6,24 +6,28 @@
 
 Este é um sistema de gerenciamento (MDT) desenvolvido para oficinas e centros automotivos em servidores de **FiveM Roleplay**. Criado com foco na agilidade do atendimento e organização financeira da mecânica.
 
+### 🛠️ Próximos Passos (Integração VPS)
+[ ] Conectar BauEstoque.jsx com a tabela ox_inventory ou items.
+[ ] Sincronizar preços do Orcamento.jsx com a config.lua do servidor.
+[ ] Implementar sistema de Logs via Webhook do Discord.
+[ ] Sistema de descontos para membros de facções ou empresas parceiras
+[ ] Seleção de peças (Motor, Transmissão, Suspensão, Turbo)
+[ ] Registro de revisões preventivas.
+[ ] Geração de notas fiscais para os clientes.
+[ ] Histórico de serviços realizados por cada mecânico (controle de comissão).
+[ ] Registro de entrada e saída de materiais.
+
 ## ✨ Funcionalidades
 
 ### 🛠️ Orçamentos & Serviços 
-- Seleção de peças (Motor, Transmissão, Suspensão, Turbo) (EM BREVE).
-- Cálculo dinâmico de **mão de obra + valor das peças**.
-- Sistema de descontos para membros de facções ou empresas parceiras (EM BREVE).
+- Instalação a ECU (Níveis de 1 a 3. Sendo o nível 3 uma programação da ECU para **Drift**)
+- Cálculo manual de **mão de obra + valor das peças**.
+
 
 ### 📋 Checklist de Inspeção 
 - Interface para mostrar danos no veículo (Motor, Lataria, Pneus).
-- Registro de revisões preventivas. (EM BREVE)
+- Interface para mostrar o gasto de gasolina do motor **Em tempo real**
 
-### 💰 Gestão de Estoque & Peças
-- Visualização de peças disponíveis no estoque da oficina.
-- Registro de entrada e saída de materiais.
-
-### 🧾 Faturamento & Logs
-- Geração de notas fiscais para os clientes.
-- Histórico de serviços realizados por cada mecânico (controle de comissão).
 
 ## 🚀 Tecnologias Utilizadas
 
