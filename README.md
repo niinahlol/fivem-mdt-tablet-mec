@@ -8,14 +8,14 @@ Este é um sistema de gerenciamento (MDT) desenvolvido para oficinas e centros a
 
 ## ✨ Funcionalidades
 
-### 🛠️ Orçamentos & Serviços (EM BREVE)
-- Seleção de peças (Motor, Transmissão, Suspensão, Turbo).
+### 🛠️ Orçamentos & Serviços 
+- Seleção de peças (Motor, Transmissão, Suspensão, Turbo) (EM BREVE).
 - Cálculo dinâmico de **mão de obra + valor das peças**.
-- Sistema de descontos para membros de facções ou empresas parceiras.
+- Sistema de descontos para membros de facções ou empresas parceiras (EM BREVE).
 
-### 📋 Checklist de Inspeção (EM BREVE)
-- Interface para marcar danos no veículo (Motor, Lataria, Pneus).
-- Registro de revisões preventivas.
+### 📋 Checklist de Inspeção 
+- Interface para mostrar danos no veículo (Motor, Lataria, Pneus).
+- Registro de revisões preventivas. (EM BREVE)
 
 ### 💰 Gestão de Estoque & Peças
 - Visualização de peças disponíveis no estoque da oficina.
