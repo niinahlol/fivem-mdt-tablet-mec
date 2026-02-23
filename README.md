@@ -32,8 +32,3 @@ Este é um sistema de gerenciamento (MDT) desenvolvido para oficinas e centros a
 - **Lucide-React** (Ícones automotivos e de ferramentas)
 - **CSS3 Moderno** (Layouts em Grid e Temas Dark/Blue)
 
-## 🔧 Instalação
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO_MECANICA.git](https://github.com/SEU_USUARIO/NOME_DO_REPO_MECANICA.git)
