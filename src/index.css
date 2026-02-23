@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  /* Cores personalizadas da Redline */
+  --color-mecanica-dark: #0a0a0a;
+  --color-mecanica-card: #121212;
+  --color-redline: #ff0000;
+  
+  /* Se quiser adicionar mais cores depois, é só colocar aqui embaixo */
+}
+
+/* Custom Scrollbar para o Tablet */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #ff0000; /* Cor da Redline */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #cc0000;
+}
+
+/* Remova ou comente as linhas abaixo */
+/* #root, body, html {
+  background-color: transparent; 
+} 
+*/
+
+/* Opcional: apenas para garantir que não haja margens estranhas */
+#root, body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  background-color: transparent; /* O fundo deve vir do TabletMoldura, não daqui */
+}
