@@ -8,13 +8,21 @@ Este é um sistema de gerenciamento (MDT) desenvolvido para oficinas e centros a
 
 ### 🛠️ Próximos Passos (Integração VPS)
 [ ] Conectar BauEstoque.jsx com a tabela ox_inventory ou items.
+
 [ ] Sincronizar preços do Orcamento.jsx com a config.lua do servidor.
+
 [ ] Implementar sistema de Logs via Webhook do Discord.
+
 [ ] Sistema de descontos para membros de facções ou empresas parceiras
+
 [ ] Seleção de peças (Motor, Transmissão, Suspensão, Turbo)
+
 [ ] Registro de revisões preventivas.
+
 [ ] Geração de notas fiscais para os clientes.
+
 [ ] Histórico de serviços realizados por cada mecânico (controle de comissão).
+
 [ ] Registro de entrada e saída de materiais.
 
 ## ✨ Funcionalidades
