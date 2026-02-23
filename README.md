@@ -1,16 +1,39 @@
-# React + Vite
+# 🔧 FiveM MDT - Sistema de Gestão de Mecânica (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Lucide](https://img.shields.io/badge/lucide-icons-pink?style=for-the-badge)
 
-Currently, two official plugins are available:
+Este é um sistema de gerenciamento (MDT) desenvolvido para oficinas e centros automotivos em servidores de **FiveM Roleplay**. Criado com foco na agilidade do atendimento e organização financeira da mecânica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## React Compiler
+### 🛠️ Orçamentos & Serviços (EM BREVE)
+- Seleção de peças (Motor, Transmissão, Suspensão, Turbo).
+- Cálculo dinâmico de **mão de obra + valor das peças**.
+- Sistema de descontos para membros de facções ou empresas parceiras.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📋 Checklist de Inspeção (EM BREVE)
+- Interface para marcar danos no veículo (Motor, Lataria, Pneus).
+- Registro de revisões preventivas.
 
-## Expanding the ESLint configuration
+### 💰 Gestão de Estoque & Peças
+- Visualização de peças disponíveis no estoque da oficina.
+- Registro de entrada e saída de materiais.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🧾 Faturamento & Logs
+- Geração de notas fiscais para os clientes.
+- Histórico de serviços realizados por cada mecânico (controle de comissão).
+
+## 🚀 Tecnologias Utilizadas
+
+- **React.js** (Lógica de estados para orçamentos)
+- **Vite** (Ambiente de desenvolvimento rápido)
+- **Lucide-React** (Ícones automotivos e de ferramentas)
+- **CSS3 Moderno** (Layouts em Grid e Temas Dark/Blue)
+
+## 🔧 Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO_MECANICA.git](https://github.com/SEU_USUARIO/NOME_DO_REPO_MECANICA.git)
